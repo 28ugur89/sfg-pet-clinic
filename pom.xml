@@ -42,11 +42,10 @@
                 </configuration>
             </plugin>
         </plugins>
-    </build> 
+    </build>
 
     <scm>
         <developerConnection>scm:git:git@github.com:28ugur89/sfg-pet-clinic.git</developerConnection>
-
     </scm>
 
 </project>
